@@ -1,0 +1,56 @@
+body{
+
+}
+.text h1{
+ font-size: 80px;
+
+   font-weight: bold ;
+   font-family: Impact;
+}
+.text p{
+    font-size: 35px;
+       margin: 30px;
+
+}
+.btn{
+   
+ background-color: blue;
+    width: 250px;
+    height: 80px;
+border-radius: 0px ;
+border-width: 2px;
+
+}
+.btn:hover{
+  background-color: green;
+}
+
+
+
+
+
+
+
+div {
+  text-align: center;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: Impact;
+}
+
+button {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+}
+
+p{
+  font-size: 35px;
+}
+
+button:hover{
+  background-color: green;
+}
